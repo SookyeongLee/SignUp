@@ -50,6 +50,10 @@ select:focus {
   outline: none;
   border-color: var(--color-blue);
 }
+/* Header */
+#header {
+  margin-top: calc(var(--spacing-medium) * 2);
+}
 /* Section*/
 #section {
   width: 480px;
