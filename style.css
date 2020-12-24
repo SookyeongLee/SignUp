@@ -71,16 +71,14 @@ select:focus {
 .bir__wrap__item {
   flex-basis: 31.5%;
 }
-.radio__gender,
-.checkbox__marketing {
+.radio__gender {
   display: flex;
   justify-content: space-around;
   border: 1px solid var(--color-dark-white);
   font-size: var(--font-micro);
   padding: var(--spacing-small) 0;
 }
-#gender,
-#marketing {
+#gender {
   width: var(--spacing-regular);
   height: var(--spacing-regular);
   vertical-align: -4px;
