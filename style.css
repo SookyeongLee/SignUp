@@ -115,6 +115,6 @@ select:focus {
 }
 .footer__rights {
   font-size: var(--font-micro);
-  vertical-align: var(--spacing-micro);
+  vertical-align: 5px;
   margin-left: var(--spacing-micro);
 }
